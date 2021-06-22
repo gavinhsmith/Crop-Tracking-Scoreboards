@@ -1,0 +1,7 @@
+name: CropTrackingScoreboards
+version: ${project.version}
+main: tk.gavinhsmith.croptrackingscoreboards.CropTrackingScoreboards
+api-version: 1.17
+authors: [ gavinhsmith ]
+description: Creates scoreboards that track player farming statistics
+website: https://gavinhsmith.tk
